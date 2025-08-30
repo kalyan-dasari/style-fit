@@ -1,0 +1,5 @@
+{
+  "name": "StyleFit - Virtual Try-On",
+  "description": "Upload a photo of yourself and a piece of clothing to see how it fits, powered by AI. Virtually try on clothes from anywhere.",
+  "requestFramePermissions": []
+}
